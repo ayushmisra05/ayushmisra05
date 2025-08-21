@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayush Misra</h1>
 <h3 align="center">A passionate Software Engineer from the U.S.</h3>
 
-- 🔭 I’m currently working on **AI for Financial Regulation Research with Stevens Institute of Technology**
+- 🔭 I’m currently working as a **Software Engineer Intern for Principal Financial Group**
 
-- 🌱 I’m currently learning **Full-Stack Development and DJANGO**
-
-- 👯 I’m looking to collaborate on **a Final Exam Scheduler Project for my school**
+- 🌱 I’m currently learning more about **Full-Stack Development**
 
 - 🤝 I’m looking for help with **any side projects!**
 
 - 💬 Ask me about **Python :D**
 
-- 📫 How to reach me **ayush.misra71@gmail.com**
+- 📫 How to reach me **ayush.misra71@gmail.com    ||    amisra2@stevens.edu**
 
 - ⚡ Fun fact **I have perfect pitch! :o**
 

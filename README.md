@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Misra</h1>
 <h3 align="center">A passionate Software Engineer from the U.S.</h3>
 
-- 🔭 I’m currently working as a **Software Engineer Intern for Principal Financial Group**
+- 🔭 I’m currently an  **Incomming Software Engineer Intern for PGIM!**
 
-- 🌱 I’m currently learning more about **Full-Stack Development**
+- 🌱 I’m currently learning more about **Back-end Development and Distributed Systems**
 
-- 🤝 I’m looking for help with **any side projects!**
+- 🤝 I’m looking for help with **any ML side projects!**
 
-- 💬 Ask me about **Python :D**
+- 💬 Ask me about **Python and Java!**
 
 - 📫 How to reach me **ayush.misra71@gmail.com    ||    amisra2@stevens.edu**
 
